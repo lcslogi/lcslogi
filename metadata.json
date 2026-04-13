@@ -1,0 +1,5 @@
+{
+  "name": "LCSLogi VMI - Gestão de Demandas",
+  "description": "Sistema profissional de processamento e filtragem de demandas WMS para times VMI. Limpeza automática de dados, remoção de duplicatas e visualização organizada por equipe.",
+  "requestFramePermissions": []
+}
